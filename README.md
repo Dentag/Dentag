@@ -12,4 +12,4 @@ I started to study android development in 2020. It was my first real experience 
 # Education #
 Izhevsk State Technical University
 # English #
-B1
+B2
